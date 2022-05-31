@@ -2,7 +2,7 @@
   "name": "goit-react-hw-04-hooks-images",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://TkachikNataly.github.io/goit-react-hw-03-image-finder/",
+  "homepage": "https://TkachikNataly.github.io/goit-react-hw-04-hooks-images/",
   "dependencies": {
     "@testing-library/react": "^12.1.4",
     "normalize.css": "^8.0.1",
